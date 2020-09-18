@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me:
+- 📫 How to reach me:<br>
 [**VKontakte**](https://vk.com/X_vorost)<br>
 **Discord:** xvorost#8419
 <!--
