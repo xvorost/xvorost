@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me:<br>
-[**VKontakte**](https://vk.com/X_vorost)<br>
+**My VKontakte:** [Zhan Shvartz](https://vk.com/X_vorost)<br>
 **Discord:** xvorost#8419
 <!--
 **xvorost/xvorost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
