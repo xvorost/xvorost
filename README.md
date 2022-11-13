@@ -5,7 +5,7 @@
 - 📫 How to reach me:<br>
 **VKontakte:** [@x_vorost](https://vk.com/X_vorost)<br>
 **Discord:** xvorost#5394<br>
-**TG:** @X_vorost<br>
+**TG:** [@X_vorost](https://t.me/x_vorost)<br>
 **UC**: [xvorost9](https://www.unknowncheats.me/forum/members/3208073.html)<br>
 **Other**: 
 <a href="https://instagram.com/shvartz_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwartz_9" height="30" width="30" /></a>
