@@ -8,7 +8,7 @@
 **TG:** @X_vorost<br>
 **UC**: [xvorost9](https://www.unknowncheats.me/forum/members/3208073.html)<br>
 **Other**: 
-<a href="https://instagram.com/shvartz_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwartz_9" height="30" width="40" /></a>
+<a href="https://instagram.com/shvartz_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shwartz_9" height="30" width="30" /></a>
 <a href="https://discord.gg/https://discord.gg/qWvz6RHdqF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qWvz6RHdqF" height="30" width="40" /></a><br>
 
 - 📝 Languages and Tools:<br><br>
